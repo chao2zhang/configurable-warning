@@ -1,4 +1,4 @@
-# kotlin-warning-guardian
+# Warning extension for Kotlin
 
-KT-18783
-KT-8087
+- KT-18783
+- KT-8087
